@@ -13,4 +13,4 @@ With a six-year (2019--2024) dataset of AQI values from four metropolitan cities
 - To access the dataset open [AQI AND WEATHER DATA_DELHI](https://github.com/Sakshi-Rani-21/QUANTILE-REGRESSION-BASED-LSTM-MODEL/blob/main/DELHI%20FINAL%20(1).xlsx)
 - To access the dataset open [AQI AND WEATHER DATA_MUMBAI](https://github.com/Sakshi-Rani-21/QUANTILE-REGRESSION-BASED-LSTM-MODEL/blob/main/MUMBAI%20FINAL%20(1).xlsx)
 - To access the dataset open [AQI AND WEATHER DATA_KOLKATA](https://github.com/Sakshi-Rani-21/QUANTILE-REGRESSION-BASED-LSTM-MODEL/blob/main/KOLKATA%20FINAL%20(1).xlsx)
-- To access the dataset open [AQI AND WEATHER DATA_BENGALURU](https://github.com/Sakshi-Rani-21/QUANTILE-REGRESSION-BASED-LSTM-MODEL/blob/main/BENGALURUI%20FINAL%20(1).xlsx)
+- To access the dataset open [AQI AND WEATHER DATA_BENGALURU](https://github.com/Sakshi-Rani-21/QUANTILE-REGRESSION-BASED-LSTM-MODEL/blob/main/BENGALURU%20FINAL%20(1).xlsx)
