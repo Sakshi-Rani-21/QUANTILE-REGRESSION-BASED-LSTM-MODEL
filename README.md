@@ -19,3 +19,8 @@ For the Quantile Regression Long Short-Term Memory (QRLSTM) model, air quality o
 
 The QRLSTM model was trained on three years of past AQI data and validated on the following six-months period. This training methodology allows the model to understand seasonal and semi-annual patterns while taking advantage of LSTM's ability to model sequential data, hence improving the accuracy and robustness of quantile-based AQI predictions in different urban settings.
 
+## Getting Started
+1. Clone this repository to your local machine.
+2. Open [Google Colab Or Python script]()for the python code
+
+
