@@ -10,4 +10,4 @@ With a six-year (2019--2024) dataset of AQI values from four metropolitan cities
 - **Exploratory Data Analysis:** Exploratory Data Analysis (EDA) was carried out to gain an initial understanding of the data distribution, identify patterns, detect anomalies, and examine relationships between variables. Visual tools such as time series plots are employed to study the seasonal trends and variability of air pollutants and meteorological features across different cities. The distribution of AQI values was also analyzed to assess the severity of pollution over time.
 - **Implimentation Environment:** Both Quantile Regression (QR) and Quantile Regression LSTM (QR-LSTM) models were executed in PyTorch and run on Google Colab. The QR model was executed with CPU capabilities, while the QR-LSTM model utilized GPU acceleration provided by the Colab environment.
 ## Dataset
-- To access the dataset open 
+- To access the dataset open [AQI AND WEATHER DATA](https://github.com/Sakshi-Rani-21/Travel-Insaurance-Analysis--Power-BI/blob/ff39b269274b3d77609e66ea299d58731867f1e0/travel%20insurance%20dataset.csv)
