@@ -14,3 +14,8 @@ With a six-year (2019--2024) dataset of AQI values from four metropolitan cities
 - To access the dataset open [AQI AND WEATHER DATA_MUMBAI](https://github.com/Sakshi-Rani-21/QUANTILE-REGRESSION-BASED-LSTM-MODEL/blob/main/MUMBAI%20FINAL%20(1).xlsx)
 - To access the dataset open [AQI AND WEATHER DATA_KOLKATA](https://github.com/Sakshi-Rani-21/QUANTILE-REGRESSION-BASED-LSTM-MODEL/blob/main/KOLKATA%20FINAL%20(1).xlsx)
 - To access the dataset open [AQI AND WEATHER DATA_BENGALURU](https://github.com/Sakshi-Rani-21/QUANTILE-REGRESSION-BASED-LSTM-MODEL/blob/main/BENGALURU%20FINAL%20(1).xlsx)
+## Model Setup
+For the Quantile Regression Long Short-Term Memory (QRLSTM) model, air quality observations from four major cities Delhi, Mumbai, Kolkata, and Bengaluru were utilized, over a six-year period from 2019 to 2024. A rolling window strategy with a window of six months was used to effectively capture local temporal dependencies and changes in AQI levels.
+
+The QRLSTM model was trained on three years of past AQI data and validated on the following six-months period. This training methodology allows the model to understand seasonal and semi-annual patterns while taking advantage of LSTM's ability to model sequential data, hence improving the accuracy and robustness of quantile-based AQI predictions in different urban settings.
+
