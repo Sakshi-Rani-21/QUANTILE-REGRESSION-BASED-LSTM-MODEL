@@ -21,6 +21,7 @@ The QRLSTM model was trained on three years of past AQI data and validated on th
 
 ## Getting Started
 1. Clone this repository to your local machine.
-2. Open [Google Colab Or Python script]()for the python code
+2. Save the datset provided above.
+3. Open [Google Colab Or Python script](https://github.com/Sakshi-Rani-21/QUANTILE-REGRESSION-BASED-LSTM-MODEL/blob/main/QRLSTM_0.9quantile.ipynb)for the python code
 
 
